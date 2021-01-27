@@ -1,1 +1,1 @@
-# MathStaff
+# MathStuff
